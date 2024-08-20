@@ -33,11 +33,9 @@ We facilitate two contributions
 
 - **Ask Me Anything Panels**: Submit an abstract on your expertise and what kinds of advice you can provide to our younger generation.
 
-## Co-located Seminar on Disruptive Innovation of Generative AI.
-
+### Discussions on Disruptive Innovation of Generative AI (Invite-only) .
 
 ## Meet the Team
-
 
 ## Registration and Venue
 
