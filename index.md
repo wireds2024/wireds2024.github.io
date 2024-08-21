@@ -33,10 +33,19 @@ We facilitate two contributions
 
 - **Ask Me Anything Panels**: Submit an abstract on your expertise and what kinds of advice you can provide to our younger generation.
 
-### Discussions on Disruptive Innovation of Generative AI (Invite-only) .
+### Summit on Disruptive Innovation of Generative AI (Invite-only)
+
+TBD
 
 ## Meet the Team
 
+TBD
+
 ## Registration and Venue
 
+WIREDS2024 will be held in the center of Osaka at https://www.onc.osaka-u.ac.jp/.
+https://www.onc.osaka-u.ac.jp/access/.
+
 ## Program
+
+TBD
