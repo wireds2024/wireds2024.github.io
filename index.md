@@ -39,7 +39,27 @@ TBD
 
 ## Meet the Team
 
-TBD
+### Organizing Team
+- Raula Gaikovina Kula
+- Kazumasa Shimari
+- Brittany Reid
+- [Keitaro Nakasai](https://researchmap.jp/keitaro_nakasai){:target="_blank"}
+
+### Wakate Team
+- Youmei Fan
+- Ruksit Rojpaisarnkit
+- Indira Febriyanti
+- Takashi Nakano
+- Haruhiko Yoshioka
+- [Kazuma Yamasaki](https://hietan.com){:target="_blank"}
+
+### Advisory Team
+- [Kenichi Matsumoto](https://researchmap.jp/KenichiMatsumoto){:target="_blank"}
+- [Masahide Nakamura](https://www27.cs.kobe-u.ac.jp/~masa-n/index-e.html){:target="_blank"}
+- [Hiroki Igaki](https://jp.linkedin.com/in/hiroshi-igaki-92b42650){:target="_blank"}
+- [Akinori Ihara](https://socsel.jpn.org/index.php/akinori-ihara/){:target="_blank"}
+- [Masateru Tsunoda](https://www.kindai.ac.jp/english/research/researchers/introduce/tsunoda-masateru-bb1.html){:target="_blank"}
+- [Matsumoto Shinshuke](https://sdl.ist.osaka-u.ac.jp/~shinsuke/){:target="_blank"}
 
 ## Registration and Venue
 
