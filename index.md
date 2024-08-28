@@ -40,9 +40,9 @@ TBD
 ## Meet the Team
 
 ### Organizing Team
-- Raula Gaikovina Kula
-- Kazumasa Shimari
-- Brittany Reid
+- [Raula Gaikovina Kula](https://raux.github.io){:target="_blank"}
+- [Kazumasa Shimari](https://k-shimari.github.io){:target="_blank"}
+- [Brittany Reid](https://brittany-reid.github.io){:target="_blank"}
 - [Keitaro Nakasai](https://researchmap.jp/keitaro_nakasai){:target="_blank"}
 
 ### Wakate Team
@@ -63,8 +63,7 @@ TBD
 
 ## Registration and Venue
 
-WIREDS2024 will be held in the center of Osaka at https://www.onc.osaka-u.ac.jp/.
-https://www.onc.osaka-u.ac.jp/access/.
+WIREDS2024 will be held in the center of Osaka at [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/){:target="_blank"}.
 
 ## Program
 
