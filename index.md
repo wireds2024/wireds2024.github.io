@@ -11,7 +11,12 @@ Software powers our everyday lives. The First International Workshop on Intertwi
 <br>
 <br>
 WIREDS2024 seeks to establish a local platform for the next generation of younger researchers in Japan by brining in rising stars from the global. The workshop is committed to cultivating a collaborative atmosphere that encourages the sharing of diverse perspectives, ultimately contributing to the growth and evolution of software research—not only in Japan but in a way that is mutually beneficial for the global community.
+<br>
+<br>
+The theme for WIREDS 2024 is the "Disruptive Innovation of Generative AI". We will be inviting experts from the Global SE community to share some ideas and provide feedback to our Japanese community. 
 </p>
+
+
 
 ## Why Attend?
 <p style='text-align: justify;'>
@@ -32,10 +37,6 @@ We facilitate two contributions
 - **Fast Abstracts as Posters**: These are lightly-reviewed two page abstracts that will be presented as Posters and will be given a 1 min elevator talk.
 
 - **Ask Me Anything Panels**: Submit an abstract on your expertise and what kinds of advice you can provide to our younger generation.
-
-### Summit on Disruptive Innovation of Generative AI (Invite-only)
-
-TBD
 
 ## Meet the Team
 
