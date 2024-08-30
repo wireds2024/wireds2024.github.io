@@ -40,29 +40,16 @@ We facilitate two contributions
 
 ## Meet the Team
 
-<details>
-<summary>Organizing Team</summary>
+**Organizing Team**
   
 - [**Raula Gaikovina Kula**](https://raux.github.io){:target="_blank"}<br>Nara Institute of Science and Technology, Japan
 - [**Kazumasa Shimari**](https://k-shimari.github.io){:target="_blank"}<br>Nara Institute of Science and Technology, Japan
 - [**Brittany Reid**](https://brittany-reid.github.io){:target="_blank"}<br>Nara Institute of Science and Technology, Japan
 - [**Keitaro Nakasai**](https://researchmap.jp/keitaro_nakasai){:target="_blank"}<br>Osaka Metropolitan University College of Technology, Japan
-</details>
 
  [Wakate Team](members.md)
-
-<details>
-<summary>Advisory Team</summary>
-  
-- [**Kenichi Matsumoto**](https://researchmap.jp/KenichiMatsumoto){:target="_blank"}<br>Nara Institute of Science and Technology, Japan
-- [**Masahide Nakamura**](https://www27.cs.kobe-u.ac.jp/~masa-n/index-e.html){:target="_blank"}<br>Kobe University, Japan
-- [**Hiroki Igaki**](https://jp.linkedin.com/in/hiroshi-igaki-92b42650){:target="_blank"}<br>Osaka Institute of Technology, Japan
-- [**Akinori Ihara**](https://socsel.jpn.org/index.php/akinori-ihara/){:target="_blank"}<br>Wakayama University, Japan
-- [**Masateru Tsunoda**](https://www.kindai.ac.jp/english/research/researchers/introduce/tsunoda-masateru-bb1.html){:target="_blank"}<br>Kindai University, Japan
-- [**Shinshuke Matsumoto**](https://sdl.ist.osaka-u.ac.jp/~shinsuke/){:target="_blank"}<br>Osaka University, Japan
-</details>
-
-
+ 
+ [Advisory Team](advise.md)
 
 ## Venue
 WIREDS2024 will be held in the center of Osaka at [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/){:target="_blank"}. Located in the heart of Japan, Osaka offers a unique experience that differs from what you might expect in other parts of the country. Osaka enjoys mild temperatures in December, with an average high temperature of 12°C (54°F) in the afternoon and a daily low temperature of 5°C (41°F) in the middle of the night.<br>
