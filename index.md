@@ -1,4 +1,6 @@
-# WIREDS2024
+<div style="text-align: center">
+ <img src="/img/logo.png" alt="Logo Image" style="width: 50%;">
+</div>
 
 ### The First International Workshop on Intertwining Research & Education on Software
 
@@ -64,3 +66,8 @@ TBD
 ## Program
 
 TBD
+
+
+<div style="text-align: center">
+ <img src="/img/logo_name_year.png" alt="WIREDS2024" style="width: 75%;">
+</div>
