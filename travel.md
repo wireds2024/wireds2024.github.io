@@ -1,21 +1,51 @@
 ## Accommodation
-Here are three hotels near the venue.
+We have listed three hotels near the venue here, but you are welcome to stay at any of the other hotels. Please kindly book your own accommodations, as the workshop does not cover accommodation.
 - [Rihga Royal Hotel](https://www.rihga.com/osaka)
   
 - [Rihga Place Higobashi](https://www.rihga.com/place-higobashi)
 
 - [ANA Crowne Plaza](https://www.anacrowneplaza-osaka.jp/en/)
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PcJhY_ZvqoNgPbrvxHd3wWq23S99zl8&ehbc=2E312F&noprof=1" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 ## Transport
 ### From Kansai International Airport (KIX)
+To reach Osaka University Nakanoshima Center from Kansai International Airport (KIX), you can take the JR Kansai Airport Rapid Service or the Nankai Line to Namba Station. From Namba, transfer to the Osaka Metro Midosuji Line and head toward Umeda. At Umeda Station, transfer to the Keihan Railway Nakanoshima Line and alight at Nakanoshima Station, which is directly connected to the venue. The journey takes approximately 1 hour and 20 minutes.
 
 ### From Itami Airport (ITM)
+From Itami Airport (ITM), you can take the Osaka Monorail to Hotarugaike Station and then transfer to the Hankyu Railway Takarazuka Line. Ride toward Umeda Station and transfer to the Osaka Metro Yotsubashi Line. From Umeda, change to the Keihan Railway Nakanoshima Line and get off at Nakanoshima Station. The total travel time is approximately 50 minutes.
 
 ### From Shin-Osaka Station
+Take the Osaka Metro Midosuji Line from Shin-Osaka Station toward Umeda (Osaka Station). From Umeda, transfer to the Keihan Railway Nakanoshima Line and alight at Nakanoshima Station. The trip takes around 25 minutes.
 
 ### From Shonan (Shonan Meeting)
+For participants coming from the Shonan Meeting venue, take the JR Tokaido Main Line from Fujisawa Station to Shin-Osaka Station. From Shin-Osaka, follow the directions listed above to reach Nakanoshima Center. The total time for the journey is approximately 3 hours and 30 minutes.
 
+## Visa Requirements
+You may request a visa letter in the registration system. For attendees who have registered, but need additional documentation to receive your travel visa, please use the following contact.
 
-## Visa Information
+Raula Gaikovina Kula (Chair)
+Email: raula-k@is.naist.jp
+
+For all requests, please include the following information in your email:
+
+Name:
+Nationality:
+Occupation:
+Birth Year/Month/Day:
+Sex: Male/Female
+Home address:
+Home phone number:
+Flight schedule (outbound and inbound):
+
+Hotel Name:
+Hotel Address:
+Phone number in Japan:
+Owner of the phone number (Hotel/Company/Address):
+
+If you will be staying additional days outside of the WIREDS week, please provide the reason.
+
+If you are an author of an accepted paper
+Paper ID:
+Paper Title:
+Paper Author:
+Workshop etc. name to be presented:
+Your paper: Please attach your paper PDF file.
