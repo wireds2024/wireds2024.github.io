@@ -6,7 +6,7 @@ We have listed three hotels near the venue here, but you are welcome to stay at 
 
 - [ANA Crowne Plaza](https://www.anacrowneplaza-osaka.jp/en/)
 
-## Transport
+## Arriving in Osaka
 ### From Kansai International Airport (KIX)
 To reach Osaka University Nakanoshima Center from Kansai International Airport (KIX), you can take the JR Kansai Airport Rapid Service or the Nankai Line to Namba Station. From Namba, transfer to the Osaka Metro Midosuji Line and head toward Umeda. At Umeda Station, transfer to the Keihan Railway Nakanoshima Line and alight at Nakanoshima Station, which is directly connected to the venue. The journey takes approximately 1 hour and 20 minutes.
 
