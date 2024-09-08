@@ -22,30 +22,30 @@ For participants coming from the Shonan Meeting venue, take the JR Tokaido Main 
 ## Visa Requirements
 You may request a visa letter in the registration system. For attendees who have registered, but need additional documentation to receive your travel visa, please use the following contact.
 
-Raula Gaikovina Kula (Chair)
+Raula Gaikovina Kula (Chair)<br>
 Email: raula-k@is.naist.jp
 
 For all requests, please include the following information in your email:
 
-Name:
-Nationality:
-Occupation:
-Birth Year/Month/Day:
-Sex: Male/Female
-Home address:
-Home phone number:
+Name:<br>
+Nationality:<br>
+Occupation:<br>
+Birth Year/Month/Day:<br>
+Sex: Male/Female<br>
+Home address:<br>
+Home phone number:<br>
 Flight schedule (outbound and inbound):
 
-Hotel Name:
-Hotel Address:
-Phone number in Japan:
-Owner of the phone number (Hotel/Company/Address):
+Hotel Name:<br>
+Hotel Address:<br>
+Phone number in Japan:<br>
+Owner of the phone number (Hotel/Company/Address):<br>
 
 If you will be staying additional days outside of the WIREDS week, please provide the reason.
 
-If you are an author of an accepted paper
-Paper ID:
-Paper Title:
-Paper Author:
-Workshop etc. name to be presented:
+If you are an author of an accepted paper<br>
+Paper ID:<br>
+Paper Title:<br>
+Paper Author:<br>
+Workshop etc. name to be presented:<br>
 Your paper: Please attach your paper PDF file.
