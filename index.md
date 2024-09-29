@@ -33,12 +33,20 @@ Our goal is to facilitate a space for contributions, advice and discussions that
 
 ## Call for Contributions
 <p style='text-align: justify;'>
-We facilitate two contributions
+We facilitate two contributions. The workshops are hybrid, so participants can choose either online or offline options.
 </p>
 
-- **Fast Abstracts as Posters**: These are lightly-reviewed two page abstracts that will be presented as Posters and will be given a 1 min elevator talk.
+- **Fast Abstracts as Posters**: These are 2 page abstracts that will be presented as Posters and will be given a few minutes elevator talk.
+We have two options for this track. Accepted papers will be available only for participants. 
+  -  **Lightly-Reviewed Fast Abstracts:** Submission with this option will be lightly-reviewed. The purpose of the review is to promote discussion that will be useful for advancing research and to encourage the authors to submit their work to the top international conferences or journals.
+  -  **Non-Reviewed Fast Abstracts:** Submission with this option will not be reviewed. This option is also open to those who are submitting their research to peer-reviewed international conferences or journals, or who have already had their research accepted for publication in these.
 
 - **Ask Me Anything Panels**: Submit an abstract on your expertise and what kinds of advice you can provide to our younger generation.
+
+## Important Dates
+- **Paper submission**: November 1st, 2024 (AOE) 
+- **Notifications**: November 8th, 2024 (AOE)
+- **Camera Ready**: November 15th, 2024 (AOE)
 
 ## Meet the Team
 
@@ -62,12 +70,26 @@ Find more details on the [Travel Information page](travel.md).
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13122.448980000237!2d135.4872644236807!3d34.68973461677483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e6f427728823%3A0xd361d2a346f79d9c!2sOsaka%20University%20Nakanoshima%20Center!5e0!3m2!1sen!2ssg!4v1724903993923!5m2!1sen!2ssg" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 
 ## Registration
+* Student Early Author Registration (by November 15th): Free
+* Early Registration (by November 15th): 30,000 yen
+* Late Registration (by November 29th): 40,000 yen
 
-TBD
+The registration fee will be collected on-site. 
+Only cash payments (no credit cards) in Japanese yen (JPY) can be acceptable.​
 
-## Program
+This workshop does not include lunch, but we plan to hold banquet on December 7th.
 
-TBD
+If you need visa for Japan and its application documents for your local Japanese embassy or consulate, please check off the box in the form. We will contact you to send the documents. [Visa Information](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)
+
+
+## Tentative Program
+
+* December 6th Afternoon: Closed Discussion for Intertwining Research & Education on Software
+* December 7th Morning: Lightning Talk & Poster Session 1 
+* December 7th Afternoon: Lightning Talk & Poster Session 2 & Ask Me Anything Panels
+* December 7th Night: Banquet
+* December 8th Morning: Closed Discussion for Intertwining Research & Education on Software
+
 
 
 <div style="text-align: center">
