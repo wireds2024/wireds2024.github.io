@@ -95,6 +95,12 @@ If you need visa for Japan and its application documents for your local Japanese
 * December 8th Morning (-12:00): Intertwining Research & Education on Software (Open)
 
 
+## Social/Free time
+
+We are planning a social event in Nara on the morning of Friday the 6th, and a social event in Osaka on the afternoon of Sunday the 8th.
+
+
+
 
 <div style="text-align: center">
  <img src="/img/logo_name_year.png" alt="WIREDS2024" style="width: 75%;">
