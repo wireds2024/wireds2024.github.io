@@ -34,6 +34,7 @@ Our goal is to facilitate a space for contributions, advice and discussions that
 ## Call for Contributions
 <p style='text-align: justify;'>
 We facilitate two contributions. The workshops are hybrid, so participants can choose either online or offline options.
+EasyChair will open soon.
 </p>
 
 - **Fast Abstracts as Posters**: These are 2 page abstracts that will be presented as Posters and will be given a few minutes elevator talk.
@@ -43,8 +44,11 @@ We have two options for this track. Accepted papers will be available only for p
 
 - **Ask Me Anything Panels**: Submit an abstract on your expertise and what kinds of advice you can provide to our younger generation.
 
+**Topic of Interest**
+Topic of interest includes Research and Education on Software.
+
 ## Important Dates
-- **Paper submission**: November 1st, 2024 (AOE) 
+- **Paper submission Deadline**: November 1st, 2024 (AOE) 
 - **Notifications**: November 8th, 2024 (AOE)
 - **Camera Ready**: November 15th, 2024 (AOE)
 
@@ -70,9 +74,9 @@ Find more details on the [Travel Information page](travel.md).
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13122.448980000237!2d135.4872644236807!3d34.68973461677483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e6f427728823%3A0xd361d2a346f79d9c!2sOsaka%20University%20Nakanoshima%20Center!5e0!3m2!1sen!2ssg!4v1724903993923!5m2!1sen!2ssg" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 
 ## Registration
-* Student Early Author Registration (by November 15th): Free
-* Early Registration (by November 15th): 30,000 yen
-* Late Registration (by November 29th): 40,000 yen
+* Early Author Registration for Students (by November 15th AOE): Free
+* Early Registration for All Participants (by November 15th AOE): 30,000 yen
+* Late Registration for All Participants (by November 29th AOE): 40,000 yen
 
 The registration fee will be collected on-site. 
 Only cash payments (no credit cards) in Japanese yen (JPY) can be acceptable.​
@@ -84,11 +88,11 @@ If you need visa for Japan and its application documents for your local Japanese
 
 ## Tentative Program
 
-* December 6th Afternoon: Closed Discussion for Intertwining Research & Education on Software
+* December 6th Afternoon (14:00-) : Intertwining Research & Education on Software (Invited Only)
 * December 7th Morning: Lightning Talk & Poster Session 1 
 * December 7th Afternoon: Lightning Talk & Poster Session 2 & Ask Me Anything Panels
 * December 7th Night: Banquet
-* December 8th Morning: Closed Discussion for Intertwining Research & Education on Software
+* December 8th Morning (-12:00): Intertwining Research & Education on Software (Open)
 
 
 
