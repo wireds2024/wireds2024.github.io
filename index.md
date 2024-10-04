@@ -19,7 +19,6 @@ The theme for WIREDS 2024 is the "Disruptive Innovation of Generative AI". We wi
 </p>
 
 
-
 ## Why Attend?
 <p style='text-align: justify;'>
 Our goal is to facilitate a space for contributions, advice and discussions that align with these three activities:
@@ -41,8 +40,6 @@ EasyChair will open soon.
 We have two options for this track. Accepted papers will be available only for participants. 
   -  **Lightly-Reviewed Fast Abstracts:** Submission with this option will be lightly-reviewed. The purpose of the review is to promote discussion that will be useful for advancing research and to encourage the authors to submit their work to the top international conferences or journals.
   -  **Non-Reviewed Fast Abstracts:** Submission with this option will not be reviewed. This option is also open to those who are submitting their research to peer-reviewed international conferences or journals, or who have already had their research accepted for publication in these.
-
-- **Ask Me Anything Panels**: Submit an abstract on your expertise and what kinds of advice you can provide to our younger generation.
 
 **Topic of Interest**
 Topic of interest includes Research and Education on Software.
@@ -98,9 +95,6 @@ If you need visa for Japan and its application documents for your local Japanese
 ## Social/Free time
 
 We are planning a social event in Nara on the morning of Friday the 6th, and a social event in Osaka on the afternoon of Sunday the 8th.
-
-
-
 
 <div style="text-align: center">
  <img src="/img/logo_name_year.png" alt="WIREDS2024" style="width: 75%;">
