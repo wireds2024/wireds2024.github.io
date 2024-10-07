@@ -41,9 +41,12 @@ We have two options for this track. Accepted papers will be available only for p
 Topic of interest includes Research and Education on Software.
 
 # Important Dates
-- **Paper submission Deadline**: November 1st, 2024 (AOE) 
-- **Notifications**: November 8th, 2024 (AOE)
-- **Camera Ready**: November 15th, 2024 (AOE)
+
+| Date                      | Event                     |
+| ------------------------- | ------------------------- |
+| November 1st, 2024 (AOE)  | Paper Submission Deadline |
+| November 8th, 2024 (AOE)  | Notifications             |
+| November 15th, 2024 (AOE) | Camera Ready              |
 
 # Meet the Team
 
@@ -81,11 +84,13 @@ If you need visa for Japan and its application documents for your local Japanese
 
 # Tentative Program
 
-* December 6th Afternoon (14:00-) : Intertwining Research & Education on Software (Invited Only)
-* December 7th Morning: Lightning Talk & Poster Session 1 
-* December 7th Afternoon: Lightning Talk & Poster Session 2 & Ask Me Anything Panels
-* December 7th Night: Banquet
-* December 8th Morning (-12:00): Intertwining Research & Education on Software (Open)
+| Date         | Time               | Event                                                        |
+| ------------ | ------------------ | ------------------------------------------------------------ |
+| December 6th | Afternoon (14:00-) | Intertwining Research & Education on Software (Invited Only) |
+| December 7th | Morning            | Lightning Talk & Poster Session 1                            |
+| December 7th | Afternoon          | Lightning Talk & Poster Session 2 & Ask Me Anything Panels   |
+| December 7th | Night              | Banquet                                                      |
+| December 8th | Morning (-12:00)   | Intertwining Research & Education on Software (Open)         |
 
 
 # Social/Free time
