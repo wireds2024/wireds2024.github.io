@@ -81,6 +81,7 @@ This workshop does not include lunch, but we plan to hold banquet on December 7t
 
 If you need visa for Japan and its application documents for your local Japanese embassy or consulate, please check off the box in the form. We will contact you to send the documents. [Visa Information](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)
 
+You can register WIREDS 2024: [**Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSc164d6V5dEvVXoqPmtdzvWfPDvTIysUAlm-K71lPE6K6bk5A/viewform?usp=sf_link){:target="_blank"}
 
 # Tentative Program
 
