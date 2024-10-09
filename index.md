@@ -33,7 +33,7 @@ EasyChair will open soon.
 </p>
 
 - **Fast Abstracts as Posters**: These are 2 page abstracts that will be presented as Posters and will be given a few minutes elevator talk.
-We have two options for this track. Accepted papers will be available only for participants. 
+We have two options for this track. Accepted papers will be available only for participants. All submissions in PDF format must adhere to the IEEE conference proceedings template. 
   -  **Lightly-Reviewed Fast Abstracts:** Submission with this option will be lightly-reviewed. The purpose of the review is to promote discussion that will be useful for advancing research and to encourage the authors to submit their work to the top international conferences or journals.
   -  **Non-Reviewed Fast Abstracts:** Submission with this option will not be reviewed. This option is also open to those who are submitting their research to peer-reviewed international conferences or journals, or who have already had their research accepted for publication in these.
 
@@ -60,6 +60,15 @@ Topic of interest includes Research and Education on Software.
  [Wakate Team](members.md)
  
  [Advisory Team](advise.md)
+
+**Program Committee Members**
+- Raula Gaikovina Kula (Nara Institute of Science and Technology)
+- Kazumasa Shimari (Nara Institute of Science and Technology)
+- Brittany Reid (Nara Institute of Science and Technology)
+- Keitaro Nakasai (Osaka Metropolitan University College of Technology)
+- Youmei Fan (Nara Institute of Science and Technology)
+- Ruksit Rojpaisarnkit (Nara Institute of Science and Technology)
+- Shiyu Yang (Osaka University)
 
 # Venue
 WIREDS2024 will be held in the center of Osaka at [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/){:target="_blank"}. Located in the heart of Japan, Osaka offers a unique experience that differs from what you might expect in other parts of the country. Osaka enjoys mild temperatures in December, with an average high temperature of 12°C (54°F) in the afternoon and a daily low temperature of 5°C (41°F) in the middle of the night.<br>
