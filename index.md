@@ -28,14 +28,14 @@ Our goal is to facilitate a space for contributions, advice and discussions that
 
 # Call for Contributions
 <p style='text-align: justify;'>
-We facilitate two contributions. The workshops are hybrid, so participants can choose either online or offline options.
-EasyChair will open soon.
+We facilitate two contributions. The workshops are partially hybrid, so presenter can make a presentation online. However, online presenters cannot see the offline presentations.
+All papers must be submitted in PDF format through the web-based submission system https://easychair.org/my/conference?conf=wireds2024.
 </p>
 
 - **Fast Abstracts as Posters**: These are 2 page abstracts that will be presented as Posters and will be given a few minutes elevator talk.
-We have two options for this track. Accepted papers will be available only for participants. All submissions in PDF format must adhere to the IEEE conference proceedings template. 
-  -  **Lightly-Reviewed Fast Abstracts:** Submission with this option will be lightly-reviewed. The purpose of the review is to promote discussion that will be useful for advancing research and to encourage the authors to submit their work to the top international conferences or journals.
-  -  **Non-Reviewed Fast Abstracts:** Submission with this option will not be reviewed. This option is also open to those who are submitting their research to peer-reviewed international conferences or journals, or who have already had their research accepted for publication in these.
+We have two options for this track. All submissions in PDF format must adhere to the IEEE conference proceedings template. **Accepted papers will be available only for participants**.
+  -  **Lightly-Reviewed Fast Abstracts:** Submission with this option will be lightly-reviewed. The purpose of the review is to promote discussion that will be useful for advancing research and to encourage the authors to submit their work to the top international conferences or journals. The title of the paper and author list will be published on the website.
+  -  **Non-Reviewed Fast Abstracts:** Submission with this option will not be reviewed. This option is also open to those who are submitting their research to peer-reviewed conferences or journals, or who have already had their research accepted for publication. The title of the paper and author list will not be published on the website.
 
 **Topic of Interest**
 Topic of interest includes Research and Education on Software.
