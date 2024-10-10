@@ -29,7 +29,7 @@ Our goal is to facilitate a space for contributions, advice and discussions that
 # Call for Contributions
 <p style='text-align: justify;'>
 We facilitate two contributions. The workshops are partially hybrid, so presenter can make a presentation online. However, online presenters cannot see the offline presentations.
-EasyChair will open soon.
+All papers must be submitted in PDF format through the web-based submission system https://easychair.org/my/conference?conf=wireds2024.
 </p>
 
 - **Fast Abstracts as Posters**: These are 2 page abstracts that will be presented as Posters and will be given a few minutes elevator talk.
