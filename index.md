@@ -27,10 +27,9 @@ Our goal is to facilitate a space for contributions, advice and discussions that
 - **Promotion of Young Researchers:** Contribute to nuturing the next generation of world-class Young Researchers in the Early Stages of their Careers. We also aim to connect local Japanese researchers with rising scientist from the global community.  
 
 # Call for Contributions
-<p style='text-align: justify;'>
 The workshops are partially hybrid, so presenter can make a presentation online. However, online presenters cannot see the offline presentations.
-All papers must be submitted in PDF format through the web-based submission system https://easychair.org/my/conference?conf=wireds2024.
-</p>
+All papers must be submitted in PDF format through the web-based submission system [EasyChair](https://easychair.org/my/conference?conf=wireds2024){:target="_blank"}.
+
 
 - **Fast Abstracts as Posters**: These are 2 page abstracts that will be presented as Posters and will be given a few minutes elevator talk.
 We have two options for this track. All submissions in PDF format must adhere to the IEEE conference proceedings template. **Accepted papers will be available only for participants**.
