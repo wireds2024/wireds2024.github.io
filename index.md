@@ -95,12 +95,14 @@ You can register WIREDS 2024: [**Registration Form**](https://docs.google.com/fo
 
 | Date         | Time               | Event                                                        |
 | ------------ | ------------------ | ------------------------------------------------------------ |
-| December 6th | Afternoon (14:00-) | Intertwining Research & Education on Software (Invited Only) |
+| December 6th | Afternoon (14:00-) | Intertwining Research & Education on Software (Invited Only).|
 | December 7th | Morning            | Lightning Talk & Poster Session 1                            |
 | December 7th | Afternoon          | Lightning Talk & Poster Session 2 & Ask Me Anything Panels   |
 | December 7th | Night              | Banquet                                                      |
 | December 8th | Morning (-12:00)   | Intertwining Research & Education on Software (Open)         |
 
+# Invited Guests
+In this workshop, we will welcome researchers from around the world. Please refer to [the list](invited-list.md) for the invited guests.
 
 # Social/Free time
 
