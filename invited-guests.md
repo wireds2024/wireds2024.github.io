@@ -1,8 +1,5 @@
 # Invited Guests
 
-<div style="text-align: left">
- <img src="wireds2024.github.io/bio_pic/Shane_McIntosh.png", style="width: 75%;">
-</div>
 ## [Shane McIntosh](https://shanemcintosh.org/)
 
 Associate Professor, The University of Waterloo	
