@@ -102,7 +102,7 @@ You can register WIREDS 2024: [**Registration Form**](https://docs.google.com/fo
 | December 8th | Morning (-12:00)   | Intertwining Research & Education on Software (Open)         |
 
 # Invited Guests
-In this workshop, we will welcome researchers from around the world. Please refer to [the list](invited-list.md) for the invited guests.
+In this workshop, we will welcome researchers from around the world. Please refer to [the list](invited-guests.md) for the invited guests.
 
 # Social/Free time
 
