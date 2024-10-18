@@ -1,16 +1,19 @@
 # Invited Guests
 
+<div style="text-align: left">
+ <img src="/bio_pic/Shane_McIntosh.png", style="width: 75%;">
+</div>
 ## [Shane McIntosh](https://shanemcintosh.org/)
 
 Associate Professor, The University of Waterloo	
 
-- Empirical software engineering
-- Mining software repositories
+- Empirical Software Engineering
+- Mining Software Repositories
 - Devops
-- Build systems
+- Build Systems
 - Continuous Integration/Continuous Delivery
-- Release engineering
-- Software quality
+- Release Engineering
+- Software Quality
 
 ## [Dario Di Nucci](https://dardin88.github.io/)
 
@@ -35,13 +38,13 @@ Assistant Professor, University of Calgary
 
 Associate Professor, University of Auckland
 
-- Human aspects
+- Human Aspects
 
 ## [Hideaki Hata](https://hideakihata.github.io/)	
 
 Associate Professor, Shinshu University
 
-- Software economics
+- Software Economics
 - Commons
 - Diversity
 
@@ -58,9 +61,11 @@ Professor, Tianjin University
 Assistant Professor, Northern Arizona University
 
 - Social Aspects of Open Source
-- Education and Open Source
+- Education
+- Open Source
 - Foundation Models for Empirical Software Engineering
-- LLMs and SE Education
+- LLMs
+- SE Education
 
 ## [Earl Theodore Barr](https://earlbarr.com/)
 
@@ -74,10 +79,10 @@ Professor, University College London
 ## [Marco Gerosa](https://scholar.google.com/citations?user=kjtuhEQAAAAJ&hl=en)
 Professor, Northern Arizona University
 
-- Human aspects of software engineering
+- Human Aspects of Software Engineering
 - Generative AI
-- Software engineering education
-- Open source software
+- Software Engineering Education
+- Open Source Software
 
 ## [Dong Wang](https://dong-w.github.io/)
 Associate Professor, Tianjin University 
