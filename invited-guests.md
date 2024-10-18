@@ -1,7 +1,7 @@
 # Invited Guests
 
 <div style="text-align: left">
- <img src="/bio_pic/Shane_McIntosh.png", style="width: 75%;">
+ <img src="wireds2024.github.io/bio_pic/Shane_McIntosh.png", style="width: 75%;">
 </div>
 ## [Shane McIntosh](https://shanemcintosh.org/)
 
