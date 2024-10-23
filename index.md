@@ -51,7 +51,7 @@ Topic of interest includes Research and Education on Software.
 
 **Organizing Team**
   
-- [**Raula Gaikovina Kula**](https://raux.github.io){:target="_blank"}<br>Nara Institute of Science and Technology, Japan
+- [**Raula Gaikovina Kula**](https://raux.github.io){:target="_blank"}<br>Osaka University, Japan
 - [**Kazumasa Shimari**](https://k-shimari.github.io){:target="_blank"}<br>Nara Institute of Science and Technology, Japan
 - [**Brittany Reid**](https://brittany-reid.github.io){:target="_blank"}<br>Nara Institute of Science and Technology, Japan
 - [**Keitaro Nakasai**](https://researchmap.jp/keitaro_nakasai){:target="_blank"}<br>Osaka Metropolitan University College of Technology, Japan
@@ -61,13 +61,13 @@ Topic of interest includes Research and Education on Software.
  [Advisory Team](advise.md)
 
 **Program Committee Members**
-- Raula Gaikovina Kula (Nara Institute of Science and Technology)
+- Raula Gaikovina Kula (Osaka University)
 - Kazumasa Shimari (Nara Institute of Science and Technology)
 - Brittany Reid (Nara Institute of Science and Technology)
 - Keitaro Nakasai (Osaka Metropolitan University College of Technology)
+- Shiyu Yang (Osaka University)
 - Youmei Fan (Nara Institute of Science and Technology)
 - Ruksit Rojpaisarnkit (Nara Institute of Science and Technology)
-- Shiyu Yang (Osaka University)
 
 # Venue
 WIREDS2024 will be held in the center of Osaka at [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/){:target="_blank"}. Located in the heart of Japan, Osaka offers a unique experience that differs from what you might expect in other parts of the country. Osaka enjoys mild temperatures in December, with an average high temperature of 12°C (54°F) in the afternoon and a daily low temperature of 5°C (41°F) in the middle of the night.<br>
