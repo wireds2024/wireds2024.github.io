@@ -53,17 +53,6 @@ Professor, Tianjin University
 - AI for SE
 - SE for AI
 
-## [Igor Steinmacher](https://scholar.google.com/citations?user=I8o8rfoAAAAJ&hl=en)
-
-Assistant Professor, Northern Arizona University
-
-- Social Aspects of Open Source
-- Education
-- Open Source
-- Foundation Models for Empirical Software Engineering
-- LLMs
-- SE Education
-
 ## [Earl Theodore Barr](https://earlbarr.com/)
 
 Professor, University College London
