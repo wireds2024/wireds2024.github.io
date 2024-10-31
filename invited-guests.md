@@ -23,7 +23,7 @@ Assistant Professor, University of Salerno
 - Blockchain
 
 
-## [Mahmoud](https://scholar.google.com/citations?user=KkmbVn4AAAAJ&hl=en)
+## [Mahmoud Alfadel](https://scholar.google.com/citations?user=KkmbVn4AAAAJ&hl=en)
 
 Assistant Professor, University of Calgary	
 

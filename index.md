@@ -43,9 +43,9 @@ Topic of interest includes Research and Education on Software.
 
 | Date                      | Event                     |
 | ------------------------- | ------------------------- |
-| November 1st, 2024 (AOE)  | Paper Submission Deadline |
-| November 8th, 2024 (AOE)  | Notifications             |
-| November 15th, 2024 (AOE) | Camera Ready              |
+| <s>November 1st 2024 (AOE)</s> **November 8th 2024 (AOE)** | Paper Submission Deadline |
+| <s>November 8th 2024 (AOE)</s> **November 15th, 2024 (AOE)**  | Notifications             |
+| <s>November 15th 2024 (AOE)</s> **November 22nd, 2024 (AOE)** | Camera Ready              |
 
 # Meet the Team
 
@@ -78,8 +78,8 @@ Find more details on the [Travel Information page](travel.md).
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13122.448980000237!2d135.4872644236807!3d34.68973461677483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e6f427728823%3A0xd361d2a346f79d9c!2sOsaka%20University%20Nakanoshima%20Center!5e0!3m2!1sen!2ssg!4v1724903993923!5m2!1sen!2ssg" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 
 # Registration
-* Early Author Registration for Students (by November 15th AOE): Free
-* Early Registration for All Participants (by November 15th AOE): 30,000 yen
+* Early Author Registration for Students (by <s>November 15th AOE</s> **November 22nd AOE**): Free
+* Early Registration for All Participants (by <s>November 15th AOE</s> **November 22nd AOE**): 30,000 yen
 * Late Registration for All Participants (by November 29th AOE): 40,000 yen
 
 The registration fee will be collected on-site. 
