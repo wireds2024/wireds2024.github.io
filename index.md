@@ -2,6 +2,10 @@
  <img src="/img/logo.png" alt="Logo Image" style="width: 50%;">
 </div>
 
+<div style="text-align: center">
+ <img src="/img/wired_poster.png" alt="Logo Image" style="width: 50%;">
+</div>
+
 # About
 
 <p style='text-align: justify;'>
