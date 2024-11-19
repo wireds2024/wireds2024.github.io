@@ -97,7 +97,7 @@ You can register WIREDS 2024: [**Registration Form**](https://docs.google.com/fo
 
 # Program
 <div style="text-align: center">
- <img src="/img/schedule.png" alt="WIREDS2024" style="width: 100%;">
+ <img src="/img/schedule.png" style="width: 100%;">
 </div>
 
 # Invited Guests
