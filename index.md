@@ -95,15 +95,23 @@ If you need visa for Japan and its application documents for your local Japanese
 
 You can register WIREDS 2024: [**Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSc164d6V5dEvVXoqPmtdzvWfPDvTIysUAlm-K71lPE6K6bk5A/viewform?usp=sf_link){:target="_blank"}
 
-# Tentative Program
+# Program
 
-| Date         | Time               | Event                                                        |
-| ------------ | ------------------ | ------------------------------------------------------------ |
-| December 6th | Afternoon (14:00-) | Intertwining Research & Education on Software (Invited Only).|
-| December 7th | Morning            | Lightning Talk & Poster Session 1                            |
-| December 7th | Afternoon          | Lightning Talk & Poster Session 2 & Ask Me Anything Panels   |
-| December 7th | Night              | Banquet                                                      |
-| December 8th | Morning (-12:00)   | Intertwining Research & Education on Software (Open)         |
+|             |                                               Dec 6 |             |                                              Dec 7 |             |                                  Dec 8 |
+|-------------|----------------------------------------------------:|-------------|---------------------------------------------------:|-------------|---------------------------------------:|
+|             |                    Nara Excursion                   | 08:30-09:00 |                    Registration                    | 09:00-10:00 | Session 3 - Collaboration Opportunties |
+|             |                                                     | 09:00-09:15 |                       Opening                      | 10:00-10:30 |              Morning Break             |
+|             |                                                     | 09:15-10:25 |    Panel Discussion 1 - Academic, Teaching Talk    | 10:30-11:30 | Session 3 - Collaboration Opportunties |
+|             |                                                     | 10:25-10:50 |                    Morning Break                   | 11:30-12:00 |                 Closing                |
+|             |                                                     | 10:50-12:00 | Panel Discussion 2 - Industry and Open Source Talk | 12:00-      |             Osaka Excursion            |
+| - 13:30     |                                                     | 12:00-13:30 |                     Lunch break                    |             |                                        |
+| 13:30-14:00 |        Kick-off and Introductions for WIREDS        | 13:30-13:50 |                  Lightning talks1                  |             |                                        |
+| 14:00-15:15 |           Sessions 1 - Trendy Topics in SE          | 13:50-14:50 |                  Poster Sessions1                  |             |                                        |
+| 15:15-15:35 |                   Afternoon Break                   | 14:50-15:20 |                   Afternoon Break                  |             |                                        |
+|             |                                                     | 15:20-15:40 |                  Lightning talks 2                 |             |                                        |
+| 15:35-16:50 | Sessions 2 - Promoting Research at the Global level | 15:40-16:50 |                  Poster Sessions 2                 |             |                                        |
+| 17:00-18:00 |            Invitees Reception and Dinner            | 17:00-18:00 |                Move to Banquet Place               |             |                                        |
+| 18:00-20:00 |                                                     | 18:00-20:00 |            WIREDS Banquet @ Regal Hotel            |             |                                        |
 
 # Invited Guests
 In this workshop, we will welcome researchers from around the world. Please refer to [the list](invited-guests.md) for the invited guests.
