@@ -95,7 +95,7 @@ If you need visa for Japan and its application documents for your local Japanese
 
 You can register WIREDS 2024: [**Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSc164d6V5dEvVXoqPmtdzvWfPDvTIysUAlm-K71lPE6K6bk5A/viewform?usp=sf_link){:target="_blank"}
 
-# Program
+# Program　
 <div style="text-align: center">
  <img src="/img/schedule.png" style="width: 100%;">
 </div>
