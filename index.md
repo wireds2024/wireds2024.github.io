@@ -103,6 +103,15 @@ You can register WIREDS 2024: [**Registration Form**](https://docs.google.com/fo
 # Invited Guests
 In this workshop, we will welcome researchers from around the world. Please refer to [the list](invited-guests.md) for the invited guests.
 
+# Banquet
+The banquet will be held on Saturday, December 7th, at Restaurant Grande Toque located in Osaka International Convention Center 12F, a 15-minute walk from the conference venue.
+
+
+<div style="text-align: center">
+ <img src="/img/Grande_Toque.png" style="width: 100%;">
+</div>
+
+
 # Social/Free time
 
 We are planning a social event in Nara on the morning of Friday the 6th, and a social event in Osaka on the afternoon of Sunday the 8th.
