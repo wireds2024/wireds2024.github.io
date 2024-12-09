@@ -121,7 +121,7 @@ Buntaro Hiraki, Keisei Hamamoto, Ami Kimura, Masateru Tsunoda (Kindai University
 
 **Towards Measuring Cognitive Load during Software Engineering Tasks Using Nasal Skin Temperature: Development of a Detection System**
 
-Naoto Tani, Fukutaro Mori, Taichi Nakamura, Yusaku Kii (Osaka Metropolitan University College of Technology), Takumi Takasuka, Shunsuke Moriya (Nagaoka University of Technology), Keitaro Nakasai (Osaka Metropolitan University College of Technology), Yoshio Otake (Nara Institute of Science and Technology), Gendo Kumoi and Katsuko T. Nakahira (Nagaoka University of Technology)
+Naoto Tani, Fukutaro Mori, Taichi Nakamura, Yusaku Kii (Osaka Metropolitan University College of Technology), Takumi Takasuka, Shunsuke Moriya (Nagaoka University of Technology), Keitaro Nakasai (Osaka Metropolitan University College of Technology), Yoshito Otake (Nara Institute of Science and Technology), Gendo Kumoi and Katsuko T. Nakahira (Nagaoka University of Technology)
 
 # Invited Guests
 In this workshop, we will welcome researchers from around the world. Please refer to [the list](invited-guests.md) for the invited guests.
