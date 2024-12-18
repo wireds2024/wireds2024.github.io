@@ -3,8 +3,39 @@
 </div>
 
 <div style="text-align: center">
- <img src="/img/wired_poster.png" alt="Logo Image" style="width: 100%;">
+ <img src="/img/Group_Photo.JPG" alt="Logo Image" style="width: 100%;">
 </div>
+
+**WIREDS 2024 is over. Thank you for your contribution and see you soon!**
+
+# Best Presentation Award
+**Characterizing Top Ranking Data Science Jupyter Notebooks in Kaggle Competitions**<br>
+Tasha Settewong, Raula Gaikovina Kula and Kenichi Matsumoto
+
+**Determining Code Proficiency Levels for Programming Languages: A Textbook Application to Python**<br>
+Ruksit Rojpaisarnkit, Gregorio Robles, Kenichi Matsumoto and Raula Gaikovina Kula
+
+**Towards Measuring Cognitive Load during Software Engineering Tasks Using Nasal Skin Temperature: Development of a Detection System**<br>
+Naoto Tani, Fukutaro Mori, Taichi Nakamura, Yusaku Kii, Takumi Takasuka, Shunsuke Moriya, Keitaro Nakasai, Yoshito Otake, Gendo Kumoi and Katsuko T. Nakahira
+
+# Distinguished Presentation Award
+**Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers**<br>
+Masayuki Inaba, Kazumasa Shimari, Masao Ohira and Kenichi Matsumoto
+
+**A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies**<br>
+Tetsuya Kanda, Yuma Fujiwara, Kazumasa Shimari and Yoshiki Higo
+
+**Personalization of Code Readability Evaluation Based on LLM Using Collaborative Filtering**<br>
+Buntaro Hiraki, Keisei Hamamoto, Ami Kimura, Masateru Tsunoda, Amjed Tahir, Kwabena Bennin, Akito Monden and Keitaro Nakasai
+
+**A Systematic Literature Review of Generative AI in Requirements Engineering**<br>
+Haowei Cheng, Jati H. Husen, Sien Reeve Peralta, Bowen Jiang, Nobukazu Yoshioka, Naoyasu Ubayashi and Hironori Washizaki
+
+**Nice to Meet You: The Role of Communicative Signaling in GitHub Profile Biographies**<br>
+Takashi Nakano, Kazumasa Shimari, Raula Gaikovina Kula, Christoph Treude, Marc Cheong and Kenichi Matsumoto
+
+**How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries**<br>
+Indira Febriyanti, Youmei Fan, Kazumasa Shimari, Kenichi Matsumoto and Raula Gaikovina Kula
 
 # About
 
